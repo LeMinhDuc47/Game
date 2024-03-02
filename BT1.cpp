@@ -1,4 +1,4 @@
-Ph?n B
+ B
 14.
 #include <bits/stdc++.h>
 using namespace std;
@@ -85,7 +85,7 @@ int main() {
 	  }
 	
 	  return 0;
-Ph?n C
+ C
 28.
 #include <iostream>
 using namespace std;
